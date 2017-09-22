@@ -1,0 +1,65 @@
+org:subsidiaries	Welches Unternehmen ist eine Tochtergesellschaft von {}?
+gpe:holds_shares_in	Welche Gesellschaft teilt sich in {}?
+gpe:births_in_country	Wer wurde in {} geboren?
+per:countries_of_residence	Wo wohnt {}?
+org:holds_shares_in	Wer hält Anteile an {}?
+gpe:deaths_in_stateorprovince	Wer starb in {}?
+per:employee_or_member_of	Welche Organisation ist {} ein Mitglied von?
+gpe:subsidiaries	Welche Organisation ist eine Tochtergesellschaft {}?
+org:date_founded	Wann wurde {} gegründet?
+per:charges	Was war {} angeklagt?
+per:spouse	Wer ist der Ehepartner von {}?
+gpe:residents_of_country	Wer ist in {} ansässig?
+org:members	Wer ist Mitglied bei {}?
+per:religion	Was ist die Religion des {}?
+per:cause_of_death	Woran starb {}?
+gpe:residents_of_stateorprovince	Wer wohnt in {}?
+org:website	Welche Website gehört zu {}?
+per:age	Welches Alter ist {}?
+per:statesorprovinces_of_residence	Wo wohnt {}?
+gpe:births_in_stateorprovince	Wer wurde in {} geboren?
+per:stateorprovince_of_birth	Wo war {} geboren?
+per:organizations_founded	Welche Organisation hat {} gefunden?
+org:top_members_employees	Wer ist Mitglied bei {}?
+org:political_religious_affiliation	Was ist die politische oder religiöse Zugehörigkeit zu {}?
+org:city_of_headquarters	Wo befindet sich die Zentrale von {}?
+per:other_family	Wer sind Familienmitglieder von {}?
+gpe:births_in_city	Wer wurde in {} geboren?
+org:number_of_employees_members	Wie viele Mitarbeiter oder Mitglieder hat {}?
+org:alternate_names	Was ist ein alternativer Name von {}?
+per:alternate_names	Was ist ein alternativer Name von {}?
+per:country_of_death	Wo war {} gestorben?
+per:schools_attended	Welche Schule hat {} besucht?
+gpe:headquarters_in_city	Was hat sein Hauptquartier in {}?
+org:stateorprovince_of_headquarters	Wo befindet sich die Zentrale von {}?
+per:cities_of_residence	Wo wohnt {}?
+gpe:residents_of_city	Wer ist ein Bewohner {}?
+per:siblings	Wer ist ein Geschwisterkind von {}?
+per:city_of_death	Wo war {} gestorben?
+per:origin	Wo ist die Herkunft von {}?
+org:member_of	Wer ist Mitglied bei {}?
+per:title	Was ist der Titel von {}?
+per:parents	Wer sind die Eltern von {}?
+per:country_of_birth	Wo war {} geboren?
+org:organizations_founded	Welche Organisation hat {} gefunden?
+gpe:headquarters_in_stateorprovince	Welche Organisation hat ihren Sitz in {}?
+per:date_of_birth	Wann war {} geboren?
+per:city_of_birth	Wo war {} geboren?
+org:country_of_headquarters	Wo befindet sich die Zentrale von {}?
+per:stateorprovince_of_death	Wo war {} gestorben?
+org:shareholders	Wer ist Aktionär von {}?
+per:holds_shares_in	Welches Unternehmen hält {} an Aktien?
+org:parents	Welche Organisation ist eine Muttergesellschaft von {}?
+gpe:member_of	Wer ist Mitglied in {}?
+org:date_dissolved	Wann wurde {} aufgelöst?
+gpe:deaths_in_city	Wer starb in {}?
+org:students	Wer ist Student bei {}?
+org:employees_or_members	Wer ist Mitarbeiter oder Mitglied von {}?
+gpe:organizations_founded	Welche Organisation hat {} gefunden?
+gpe:employees_or_members	Wer ist ein Mitarbeiter von Mitglied in {}?
+per:children	Wer ist ein Kind von {}?
+org:founded_by	Wer hat {} gegründet?
+per:top_member_employee_of	Welche Organisation ist {} Mitglied oder Mitarbeiter von?
+gpe:headquarters_in_country	Welche Organisation hat Sitz in {}?
+gpe:deaths_in_country	Wer starb in {}?
+per:date_of_death	Wann starb {}?

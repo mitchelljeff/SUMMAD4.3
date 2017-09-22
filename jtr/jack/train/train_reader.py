@@ -100,7 +100,7 @@ def main():
     parser.add_argument('--normalize_pretrain', action='store_true',
                         help="Normalize pretrained embeddings, default True (randomly initialized embeddings have expected unit norm too)")
 
-    parser.add_argument('--embedding_format', default='word2vec', choices=["glove", "word2vec"],
+    parser.add_argument('--embedding_format', default='word2vec', choices=["glove", "word2vec", "fasttext"],
                         help="format of embeddings to be loaded")
     parser.add_argument('--embedding_file', default='jtr/data/SG_GoogleNews/GoogleNews-vectors-negative300.bin.gz',
                         type=str, help="format of embeddings to be loaded")

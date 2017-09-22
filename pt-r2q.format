@@ -1,0 +1,65 @@
+org:subsidiaries	Qual empresa é uma subsidiária da {}?
+gpe:holds_shares_in	Em qual empresa a {} possui participações?
+gpe:births_in_country	Quem nasceu na {}?
+per:countries_of_residence	Onde {} reside?
+org:holds_shares_in	Quem detém compartilhamentos na {}?
+gpe:deaths_in_stateorprovince	Quem morreu na {}?
+per:employee_or_member_of	De qual organização {} é membro?
+gpe:subsidiaries	Qual organização é uma subsidiária da {}?
+org:date_founded	Quando a {} foi fundada?
+per:charges	Com o que {} foi acusado?
+per:spouse	Quem é o esposo de {}?
+gpe:residents_of_country	Quem é residente na {}?
+org:members	Quem é membro da {}?
+per:religion	Qual é a religião de {}?
+per:cause_of_death	Do que {} morreu?
+gpe:residents_of_stateorprovince	Quem reside na {}?
+org:website	Qual site pertence à {}?
+per:age	Que idade é {}?
+per:statesorprovinces_of_residence	Onde {} reside?
+gpe:births_in_stateorprovince	Quem nasceu na {}?
+per:stateorprovince_of_birth	Onde nasceu {}?
+per:organizations_founded	Qual organização encontrou {}?
+org:top_members_employees	Quem é membro da {}?
+org:political_religious_affiliation	Qual é a filiação política ou religiosa da {}?
+org:city_of_headquarters	Onde estão as matrizes da {}?
+per:other_family	Quem são membros da família de {}?
+gpe:births_in_city	Quem nasceu na {}?
+org:number_of_employees_members	Quantos funcionários ou membros tem a {}?
+org:alternate_names	Qual é o nome alternativo da {}?
+per:alternate_names	Qual é o nome alternativo de {}?
+per:country_of_death	Onde morreu {}?
+per:schools_attended	Em qual escola {} compareceu?
+gpe:headquarters_in_city	Qual tem sua sede na {}?
+org:stateorprovince_of_headquarters	Onde estão as matrizes da {}?
+per:cities_of_residence	Onde {} reside?
+gpe:residents_of_city	Quem é residente da {}?
+per:siblings	Quem é um irmão de {}?
+per:city_of_death	Onde morreu {}?
+per:origin	Onde está a origem de {}?
+org:member_of	Quem é membro da {}?
+per:title	Qual é o título de {}?
+per:parents	Quem são os pais de {}?
+per:country_of_birth	Onde nasceu {}?
+org:organizations_founded	Qual organização encontrou a {}?
+gpe:headquarters_in_stateorprovince	Qual organização tem sua sede na {}?
+per:date_of_birth	Quando {} nasceu?
+per:city_of_birth	Onde nasceu {}?
+org:country_of_headquarters	Onde estão as matrizes da {}?
+per:stateorprovince_of_death	Onde morreu {}?
+org:shareholders	Quem é um acionista da {}?
+per:holds_shares_in	Em qual empresa {} participa?
+org:parents	Qual organização é um pai da {}?
+gpe:member_of	Quem é membro da {}?
+org:date_dissolved	Quando a {} estava dissolvida?
+gpe:deaths_in_city	Quem morreu na {}?
+org:students	Quem é um estudante da {}?
+org:employees_or_members	Quem é um funcionário ou membro da {}?
+gpe:organizations_founded	Qual organização encontrou a {}?
+gpe:employees_or_members	Quem é um funcionário do membro da {}?
+per:children	Quem é filho de {}?
+org:founded_by	Quem fundou a {}?
+per:top_member_employee_of	De qual organização é {} um membro ou funcionário?
+gpe:headquarters_in_country	Qual organização tem sede na {}?
+gpe:deaths_in_country	Quem morreu na {}?
+per:date_of_death	Quando {} morreu?

@@ -9,3 +9,4 @@ tensorflow>=1.0
 pycorenlp
 matplotlib
 seaborn
+Flask
